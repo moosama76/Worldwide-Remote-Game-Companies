@@ -26,10 +26,6 @@
 * [Yodo1](https://www.yodo1.com/careers/?fbclid=IwY2xjawFhElpleHRuA2FlbQIxMAABHRCXsDrtRn_JmB_wUcsLFbK5prf7x8yChBN1eu4UYIOMkuzaSXSoBqO1VA_aem_n4eP9uKEf-gWJ8-JwLfQlQ)
   - 3+ years of experience
   - Unity Engine
- 
-* [Alter Learning](https://alter-learning.com/career/)
-  - All Levels
-  - Unity and other tech jobs
 
 * [Playrix](https://playrix.com/job/open)
   - All levels
